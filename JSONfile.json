@@ -1,0 +1,116 @@
+{
+  "artworks_array": [
+    {
+      "title": "Starry Night",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/800px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "artist": "Vincent van Gogh",
+      "artist_avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/800px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
+      "short_description": "A vibrant nocturnal panorama featuring the Milky Way.",
+      "full_description": "The painting 'Starry Night' captures the mesmerizing view of the night sky adorned with the brilliance of countless stars. The interplay of shades of blue and black creates a sense of cosmic depth, while the scattered stars evoke an otherworldly beauty. This artwork reminds us of our smallness in the vast expanse of the universe.",
+      "favorite": false
+    },
+    {
+      "title": "Monolith",
+      "image": "https://i0.wp.com/shawnmcnulty.com/wp-content/uploads/2020/12/monolith-2001-space-odyssey-contemporary-art.jpg?fit=1024%2C1024&ssl=1",
+      "artist": "Abstract Artist",
+      "artist_avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gerhard_Richter%2C_Prague_%282017%29.jpg/274px-Gerhard_Richter%2C_Prague_%282017%29.jpg",
+      "short_description": "An abstract depiction of a monumental black monolith against a golden void.",
+      "full_description": "The painting 'Monolith' embodies abstract art in its purest form. The imposing black monolith emerging from the golden background exudes mystery and enigmatic depths. Its shape and texture leave ample room for interpretation, allowing each viewer to perceive something unique within its enigmatic presence.",
+      "favorite": false
+    },
+    {
+      "title": "Morning mist in the mountains",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Friedrich_-_Morning_mist_in_the_mountains.jpg/800px-Friedrich_-_Morning_mist_in_the_mountains.jpg?20121208031325",
+      "artist": "Caspar David Friedrich",
+      "artist_avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg/800px-Gerhard_von_K%C3%BCgelgen_portrait_of_Friedrich.jpg",
+      "short_description": "The artwork depicts a serene scene in the mountains.",
+      "full_description": "Morning Mist in the Mountains is a masterpiece of romantic landscape art created by Caspar David Friedrich, a prominent figure of the 19th-century German Romantic movement.",
+      "favorite": false
+    },
+    {
+      "title": "Mona Lisa",
+      "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQ-FvbbAq5IaJUhtwxXEwY0D-jiZju02ejnNHx_bQWL_27GF3srhwJgqusMAqKh3QqU",
+      "artist": "Leonardo da Vinci",
+      "artist_avatar": "https://www.leonardodavinci.net/images/leonardo-da-vinci.jpg",
+      "short_description": "Iconic portrait of a woman with an enigmatic smile.",
+      "full_description": "The 'Mona Lisa' is arguably one of the most famous and recognizable paintings in the world. The portrait of a woman with a subtle and enigmatic smile has captured the fascination of art enthusiasts for centuries. The meticulous attention to detail, the play of light and shadow, and the ambiguous expression on her face have made this artwork a timeless masterpiece.",
+      "favorite": false
+    },
+    {
+      "title": "The Persistence of Memory",
+      "image": "https://cdn.britannica.com/10/182610-050-77811599/The-Persistence-of-Memory-canvas-collection-Salvador-1931.jpg",
+      "artist": "Salvador Dalí",
+      "artist_avatar": "https://hips.hearstapps.com/hmg-prod/images/salvador-dali-gettyimages-2695565.jpg?crop=1xw:0.7504168982768205xh;center,top&resize=1200:*",
+      "short_description": "Surreal depiction of melting clocks in a dreamlike landscape.",
+      "full_description": "Salvador Dalí's 'The Persistence of Memory' is a surreal exploration of time and reality. The image of melting clocks draped over various objects creates a sense of fluidity and distortion. The barren landscape with the distant horizon adds to the dreamlike quality of the painting, inviting viewers to contemplate the nature of time and perception.",
+      "favorite": false
+    },
+    {
+      "title": "The Starry Night Over the Rhône",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Starry_Night_Over_the_Rhone.jpg/774px-Starry_Night_Over_the_Rhone.jpg",
+      "artist": "Vincent van Gogh",
+      "artist_avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx4PGyba3BR8tRfKdfHPoYo-2C6rPO8vWeTCMBo6TTfy02956e",
+      "short_description": "Nighttime scene of the Rhône River illuminated by swirling stars.",
+      "full_description": "Vincent van Gogh's 'The Starry Night Over the Rhône' portrays a peaceful nocturnal scene along the Rhône River. The swirling stars reflect on the water's surface, creating a magical and serene atmosphere. Van Gogh's distinctive brushwork captures the essence of the night sky and its reflective beauty, inviting viewers to immerse themselves in the tranquil ambiance.",
+      "favorite": false
+    },
+    {
+      "title": "The Great Wave off Kanagawa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tsunami_by_hokusai_19th_century.jpg",
+      "artist": "Katsushika Hokusai",
+      "artist_avatar": "https://p.potaufeu.asahi.com/9590-p/picture/22413844/bf7c4939686b9e50dc771e2827308bd7.jpg",
+      "short_description": "Iconic woodblock print depicting a towering wave and Mount Fuji.",
+      "full_description": "Hokusai's 'The Great Wave off Kanagawa' is a masterpiece of Japanese art. The towering wave with Mount Fuji in the background creates a dynamic and dramatic composition. The intricate details of the wave's crest and the delicate rendering of Mount Fuji showcase the skill of the woodblock printing technique. This iconic artwork captures the power of nature and the human spirit in the face of adversity.",
+      "favorite": false
+    }
+  ],
+  "MyProfileData": {
+    "title": "Starry Night",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/800px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "artist": "Vincent van Gogh",
+    "artist_avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/800px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
+    "short_description": "A vibrant nocturnal panorama featuring the Milky Way.",
+    "full_description": "The painting 'Starry Night' captures the mesmerizing view of the night sky adorned with the brilliance of countless stars. The interplay of shades of blue and black creates a sense of cosmic depth, while the scattered stars evoke an otherworldly beauty. This artwork reminds us of our smallness in the vast expanse of the universe.",
+    "favorite": false
+  },
+  "Activity": [
+    {
+      "artist": "Katsushika",
+      "artist_avatar": "https://p.potaufeu.asahi.com/9590-p/picture/22413844/bf7c4939686b9e50dc771e2827308bd7.jpg",
+      "event": "подписался на вас",
+      "time": 1000
+    },
+    {
+      "artist": "Salvador",
+      "artist_avatar": "https://hips.hearstapps.com/hmg-prod/images/salvador-dali-gettyimages-2695565.jpg?crop=1xw:0.7504168982768205xh;center,top&resize=1200:*",
+      "event": "оценил ваш проект",
+      "likedProject": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/800px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "time": 242
+    },
+    {
+      "artist": "Salvador",
+      "artist_avatar": "https://hips.hearstapps.com/hmg-prod/images/salvador-dali-gettyimages-2695565.jpg?crop=1xw:0.7504168982768205xh;center,top&resize=1200:*",
+      "event": "подписался на вас",
+      "time": 125326
+    },
+    {
+      "artist": "Katsushika",
+      "artist_avatar": "https://p.potaufeu.asahi.com/9590-p/picture/22413844/bf7c4939686b9e50dc771e2827308bd7.jpg",
+      "event": "подписался на вас",
+      "time": 10
+    },
+    {
+      "artist": "Salvador",
+      "artist_avatar": "https://hips.hearstapps.com/hmg-prod/images/salvador-dali-gettyimages-2695565.jpg?crop=1xw:0.7504168982768205xh;center,top&resize=1200:*",
+      "event": "оценил ваш проект",
+      "likedProject": "https://i0.wp.com/shawnmcnulty.com/wp-content/uploads/2020/12/monolith-2001-space-odyssey-contemporary-art.jpg?fit=1024%2C1024&ssl=1",
+      "time": 2
+    },
+    {
+      "artist": "Salvador",
+      "artist_avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg/800px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_%28454045%29.jpg",
+      "event": "подписался на вас",
+      "time": 912
+    }
+  ]
+}
